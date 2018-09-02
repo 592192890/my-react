@@ -1,0 +1,27 @@
+.top_nav  ul{
+    list-style: none;
+    padding:0px;
+    margin-top: 0px;
+
+}
+.top_nav li{
+    display:inline-block;
+    margin-right:40px;
+}
+
+.top_nav{
+    height: 70px;
+    line-height: 70px;
+    padding-left:20px;
+    background-color:white;
+    min-width:720px;
+}
+
+.top_nav .nav_button{
+    color:#91a69e;
+}
+
+
+.content .right .top_nav .nav_button.active{
+    color:#23c185;
+}

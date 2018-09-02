@@ -1,0 +1,30 @@
+.body{
+    width:100%;
+    float:left;
+    height:720px;
+}
+.inner{
+    padding-left:111px;
+    background-color:#eff4fa;
+}
+.left{
+    float:left;
+    margin-left:-100%;
+}
+.dealing{
+    padding:0 40px 0 40px;
+}
+.dealing table{
+    width:100%;
+    overflow:auto;
+}
+.dealing th{
+    width:25%;
+    text-align:left;
+}
+.dealing td{
+    text-align:left;
+}
+.brand_name{
+    display:inline-block;
+}

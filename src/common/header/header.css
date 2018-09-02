@@ -1,0 +1,30 @@
+.header{
+    height:50px;
+    background-color:#23c185;
+    line-height:50px;
+    min-width:980px;
+}
+.familyIcon{
+    height:50px;
+    float:left;
+}
+.familyIcon span{
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+    margin-left:20px;
+    line-height:50px
+}
+.userInfo{
+    height:50px;
+    float:right;
+    padding-right:40px;
+}
+.userInfo img:nth-child(2){
+    margin-left:30px;
+    margin-right:30px
+}
+img{
+    vertical-align: middle
+}
+
